@@ -1,0 +1,50 @@
+{
+    "parameters": [
+        {
+            "expr": "40",
+            "name": "W_sub",
+            "value": "40"
+        },
+        {
+            "expr": "40",
+            "name": "L_sub",
+            "value": "40"
+        },
+        {
+            "expr": "18.4",
+            "name": "W",
+            "value": "18.4"
+        },
+        {
+            "expr": "13.9",
+            "name": "L",
+            "value": "13.9"
+        },
+        {
+            "expr": "1.6",
+            "name": "h",
+            "value": "1.6"
+        },
+        {
+            "expr": "0.035",
+            "name": "t",
+            "value": "0.035"
+        },
+        {
+            "expr": "3",
+            "name": "W_f",
+            "value": "3"
+        },
+        {
+            "expr": "4",
+            "name": "Fi",
+            "value": "4"
+        },
+        {
+            "expr": "1",
+            "name": "G",
+            "value": "1"
+        }
+    ],
+    "version": 1
+}

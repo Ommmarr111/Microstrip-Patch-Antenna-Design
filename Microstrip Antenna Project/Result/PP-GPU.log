@@ -1,0 +1,4 @@
+Found 1 cuda-capable device(s).
+Device 0: NVIDIA GeForce GTX 1650
+CUDA_VISIBLE_DEVICES is set to: 
+CUDA Driver Version / Runtime Version: 12.9 / 12.4
