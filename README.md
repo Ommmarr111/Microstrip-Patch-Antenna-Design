@@ -8,7 +8,7 @@ An optimized design and simulation of a **Microstrip Patch Antenna** operating a
 ---
 
 ## 🎯 Project Overview
-This project was developed as part of the **Electronics and Communication Engineering (ECE)** curriculum. The goal was to design an antenna for Group 5, targeting a resonant frequency of 5 GHz with a characteristic impedance of 50 $\Omega$.
+This project was developed as part of the **Electronics and Communication Engineering (ECE)** curriculum. The goal was to design a Microstrip patch antenna, targeting a resonant frequency of 5 GHz with a characteristic impedance of 50 $\Omega$.
 
 ### ✨ Key Features
 * **Impedance Matching:** Implemented an **Inset Feed** to reach the 50 $\Omega$ point on the patch, eliminating the need for external matching circuits.
@@ -55,9 +55,9 @@ The antenna exhibits a clear **Broadside Radiation Pattern**, typical for patch 
 ## 💻 How to Run
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/YourUsername/5GHz-Microstrip-Patch-Antenna.git](https://github.com/YourUsername/5GHz-Microstrip-Patch-Antenna.git)
+    git clone [https://github.com/Ommmarr111/Microstrip-Patch-Antenna.git](https://github.com/Ommmarr111/Microstrip-Patch-Antenna.git)
     ```
-2.  Open `patch group 5.cst` in **CST Studio Suite**.
+2.  Open `Microstrip Antenna Project.cst` in **CST Studio Suite**.
 3.  If results are missing, go to **Home > Parametric Update (F7)**.
 4.  Run the **Transient Solver** to regenerate results.
 
