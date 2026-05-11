@@ -249,3 +249,162 @@
 2026-05-07 17:10:09   Creating parametric 1D results for Run ID 1
 
                       ------------------------------------------------------------------------------
+2026-05-08 23:56:33   Line impedance adaptation results found. Adaptive port meshing skipped.
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:34   The following farfield monitor(s) have been adjusted to model box [-20.6498,
+                      20.6498, -23.0396, 20.6498, -0.684769, 13.6101]:
+                        farfield (f=5).
+                      For further information please check the page "Special Solver Parameters -
+                      Solver" in the Online Help.
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:34   According to the selected features the <Time Domain Solver (HEX)> will be
+                      started.
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:34   
+                      Solver started at: 2026-05-08 23:56:34 +0300
+
+                        Module:  Time Domain: S-Parameter (Win 64)
+                        Version: 2025.4 Release from 2025-04-11 (change 1409410)
+
+2026-05-08 23:56:34   
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:34   
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:34   ======================================================================
+                       Solver cycle: 1
+                      ======================================================================
+
+                      Stimulation at port 1 (mode 1) 
+
+
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:34   Units settings: 
+
+                        Dimensions: mm
+                        Frequency:  GHz
+                        Time:       ns
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:34   The dispersive material update [Automatic] will be performed using the "Standard" update schema
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:35   Using Generalized port mode solver.
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:36   Port mode solver: Detected dispersive material(s) at port 1. 
+                      Using a constant approximation of dispersive material(s) at 5 GHz and neglecting loss terms.  More...
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:36   Boundary conditions: 
+
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+
+                        Xmin: expanded open, 4 Layer, depth 13.7648 mm
+                        Xmax: expanded open, 4 Layer, depth 13.7648 mm
+
+                        Ymin: expanded open, 4 Layer, depth 16.4126 mm
+                        Ymax: expanded open, 4 Layer, depth 13.7648 mm
+
+                        Zmin: expanded open, 4 Layer, depth 13.7648 mm
+                        Zmax: expanded open, 4 Layer, depth 15.5988 mm
+
+                        PML-Type: Convolution PML
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:36   Frequency settings: 
+
+                        Fmin:         3
+                        Fmax:         7
+                        Nfsteps(lin): 1001
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:36   Field update statistics:
+
+                        Number of components in total: 	524200
+                        Number of TST and special elements:	927
+                        Number of lossy metal components:	9700
+                        Number of disp. elements:		17641
+
+                      Subcycling state:      			Automatically deactivated
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:36   Waveguide boundaries:
+
+2026-05-08 23:56:36   Port: 1
+
+2026-05-08 23:56:36   Reloaded mode(s) for port 1.
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:36   Using standard absorber for unconsidered modes at port 1.
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:46   
+                      --------------------------------------------------------------------------------
+2026-05-08 23:56:46   Steady state energy criterion met, solver finished successfully.
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:46   Frequency domain results normalized to default signal.
+
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:46   
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        CAD preparation     18912                         1089236      1089236      
+                        Matrices calc.      86914                         1085937      1006835      
+                        Solver run total    111100                        391920       391920       
+                        ----------------------------------------------------------------------------
+
+                      --------------------------------------------------------------------------------
+                      Solver Statistics:
+
+                        Hardware:
+                           Computer name:                 	3amour 
+
+                           Number of CPU threads:               4
+                           Hardware info:                  	Hardware Accelerator Device not activated
+
+                        Number of mesh cells:             	84111
+                        Excitation duration:              	1.77727437e+000 ns 
+                        Calculation time for excitation:  	0 	s
+                        Number of calculated pulse widths:	2.14644 
+                        Steady state accuracy limit:      	-40	dB 
+                        Simulated number of time steps:   	3402 
+                        Maximum number of time steps:     	31698 
+                        Time step width:
+                           without subcycles:             	1.121345517e-003 ns
+                           used:                          	1.121345517e-003 ns
+
+                        Reloading matrices:               	0 	s
+                        Solver setup time:                	2 	s
+                        Solver loop time:                 	8 	s
+                        Solver post-processing time:      	0 	s
+                                                          	------------
+                        Total solver time:                	10 	s
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:46   
+                        Total solver time (all cycles):      	10     	s
+                        Solver initialization and clean-up:  	2      	s
+                                                             	------------
+                        Total simulation time:               	12     	s
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:46   Solver finished at: 2026-05-08 23:56:46 +0300
+
+
+
+                      ------------------------------------------------------------------------------
+2026-05-08 23:56:48   Creating parametric 1D results for Run ID 1
+
+                      ------------------------------------------------------------------------------

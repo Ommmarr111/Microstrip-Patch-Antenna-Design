@@ -23,9 +23,7 @@ false
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:Substrate"
-
 [end]content
 [start]recover_picks
 1
@@ -41,9 +39,7 @@ Solid.Delete "component1:Substrate"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:Ground"
-
 [end]content
 [start]recover_picks
 1
@@ -59,9 +55,7 @@ Solid.Delete "component1:Ground"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:Feed"
-
 [end]content
 [start]recover_picks
 1
@@ -77,9 +71,7 @@ Solid.Delete "component1:Feed"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:Patch"
-
 [end]content
 [start]recover_picks
 1
@@ -93,7 +85,6 @@ Solid.Delete "component1:Patch"
 10
 [end]block_index
 [start]command
-
 '@ define port: 1
  (undo)
 [end]command
@@ -114,9 +105,7 @@ Port.Delete "1"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:Cut1"
-
 [end]content
 [start]recover_picks
 1
@@ -132,9 +121,7 @@ Solid.Delete "component1:Cut1"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:Cut2"
-
 [end]content
 [start]recover_picks
 1
@@ -163,7 +150,6 @@ Solid.Delete "component1:Cut2"
 18
 [end]block_index
 [start]command
-
 '@ define port: 1
  (undo)
 [end]command

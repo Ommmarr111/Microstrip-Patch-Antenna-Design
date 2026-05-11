@@ -13,7 +13,7 @@
                 <Port Name="1" Label=""/>
             </Ports>
         </Pins>
-        <Image IconPosition="TopRight" FileName="Image/Model.dib" Scale="AutoFit">
+        <Image IconPosition="TopRight" FileName="../3D/Model.dib" Scale="AutoFit">
             <Size Height="934" Width="1220"/>
         </Image>
         <Pos X="100" Y="0"/>
