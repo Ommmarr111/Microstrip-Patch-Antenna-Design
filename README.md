@@ -50,8 +50,6 @@ The following fully optimized parameters were used in the CST model:
 ### 1. S-Parameters ($S_{11}$) & VSWR
 The simulation shows a sharp resonance at **4.97 GHz** with a <1% error margin from the design target. The VSWR graph confirms optimal power transmission, safely below the 2.0 threshold.
 
-> *(Optional: Upload `s11_plot.png` and `vswr_plot.png` to your repo and link them here)*
-> 
 > <img width="1581" height="516" alt="Screenshot 2026-05-11 223152" src="https://github.com/user-attachments/assets/398822c2-a315-496f-b733-a0743e77b460" />
 > <img width="1562" height="517" alt="Screenshot 2026-05-11 223436" src="https://github.com/user-attachments/assets/08d05a50-f214-4b12-a00e-379e43f80013" />
 
@@ -59,7 +57,6 @@ The simulation shows a sharp resonance at **4.97 GHz** with a <1% error margin f
 ### 2. Radiation Pattern
 The antenna exhibits a clear **Broadside Radiation Pattern**, typical for patch antennas, with maximum directivity along the Z-axis.
 
-> *(Optional: Upload `farfield.png` to your repo and link it here)*
 > 
 > <img width="1266" height="525" alt="Screenshot 2026-05-11 223640" src="https://github.com/user-attachments/assets/3d6ad19e-4da6-4391-beb6-7723f355d24f" />
 
